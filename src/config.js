@@ -119,8 +119,18 @@ const USERS = [
     age: "30",
     avatar: "https://i.pravatar.cc/150?img=2",
   },
-
-
+  {
+    name: "Aarav Sharms",
+    city: "Lucknow",
+    age: "27",
+    avatar: "https://i.pravatar.cc/150?img=9",
+  },
+  {
+    name: "Sidharth Malhotra",
+    city: "Ahmedabad",
+    age: "31",
+    avatar: "https://i.pravatar.cc/150?img=6",
+  },
 ];
 
 
