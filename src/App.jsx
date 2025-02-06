@@ -93,8 +93,7 @@ setFilteredUsers(tempFilteredUsers);
      "w-2/3 p-2 mt-10 mb-5 bg-white block mx-auto rounded-lg text-2xl 
      focus:outline-none border-gray-200"
      value={searchText}
-     onChange={(e) => setSearchText(e.target.value.toLocaleLowerCase())}
-     />
+     onChange={(e) => setSearchText(e.target.value.toLocaleLowerCase())}/>
 
      {searchText ? ( 
       <p className="text-center mt-1 ">
